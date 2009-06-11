@@ -1,4 +1,5 @@
 <?php
+/* mc 的扩展类 */
 
 class mc extends Memcache implements ArrayAccess
 {
